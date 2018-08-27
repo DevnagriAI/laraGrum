@@ -1,6 +1,6 @@
 {
-    "name": "phpro/grumphp",
-    "description": "A composer plugin that enables source code quality checks.",
+    "name": "FourtekIt/laraGrum",
+    "description": "A composer plugin for laravel that enables source code quality checks.",
     "type": "composer-plugin",
     "license": "MIT",
     "require": {
@@ -61,12 +61,12 @@
     },
     "authors": [
         {
-            "name": "Toon Verwerft",
-            "email": "toon.verwerft@phpro.be"
+            "name": "Ritesh Singh",
+            "email": "hello@imritesh.com"
         },
         {
             "name": "Community",
-            "homepage": "https://github.com/phpro/grumphp/graphs/contributors"
+            "homepage": "https://imritesh.com"
         }
     ],
     "config": {
