@@ -1,5 +1,5 @@
 {
-    "name": "FourtekIt/laraGrum",
+    "name": "fourtek-it/laraGrum",
     "description": "A composer plugin for laravel that enables source code quality checks.",
     "type": "composer-plugin",
     "license": "MIT",
@@ -65,7 +65,7 @@
             "email": "hello@imritesh.com"
         },
         {
-            "name": "Community",
+            "name": "Ritesh Singh",
             "homepage": "https://imritesh.com"
         }
     ],
