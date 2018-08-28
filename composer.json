@@ -1,5 +1,5 @@
 {
-    "name": "fourtek-it/laraGrum",
+    "name": "fourtekit/laragrum",
     "description": "A composer plugin for laravel that enables source code quality checks.",
     "type": "composer-plugin",
     "license": "MIT",
